@@ -1,6 +1,8 @@
-## Curriculum Vitae 
+## About Me 
 
-##### Whani Kim <br> 
+![](20190317_035018.jpg)
+
+### Whani Kim <br> 
 44-9, Hasinso 1-gil Banpo-myeon, Gongju-si <br>
 Chungnam, Republic of Korea <br>
 E-mail: Whani.kim405@gmail.com <br>
@@ -18,6 +20,7 @@ Department of Psychology <br>
 #### Research Experiences <br>
 
 2016 		   <br>
+
 	Distinguished Scholars Program (Advisor: Shannon Layman, Ph.D.) <br>
 	Department of Psychology, University of Texas at Arlington <br>
 		•	Designed and conducted experiments for Honors Thesis Project, <br> “Comfort in Music: Effect of Music on the Need for Cognitive Closure”  <br>
