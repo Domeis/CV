@@ -17,15 +17,17 @@ Department of Psychology <br>
 
 Research Experiences <br>
 
-16’ 		   Distinguished Scholars Program (Advisor: Shannon Layman, Ph.D.) <br>
-		   Department of Psychology, University of Texas at Arlington <br>
-•	Designed and conducted experiments for Honors Thesis Project, “Comfort in Music: Effect of Music on the Need for Cognitive Closure”  <br>
-•	Poster Presentation at ACES Symposium (Annual Celebration of Excellence by Students) at University of Texas at Arlington  <br>
+2016 		   <br>
+	Distinguished Scholars Program (Advisor: Shannon Layman, Ph.D.) <br>
+	Department of Psychology, University of Texas at Arlington <br>
+		•	Designed and conducted experiments for Honors Thesis Project, <br> “Comfort in Music: Effect of Music on the Need for Cognitive Closure”  <br>
+		•	Poster Presentation at ACES Symposium (Annual Celebration of Excellence by Students) at University of Texas at Arlington  <br>
 
-15’ to 16’	              Undergraduate Research Assistant <br>
-                              Cognitive Neuroscience of Memory Lab (PI: Heekyoung Park, Ph.D.) <br>
-		              Department of Psychology, University of Texas at Arlington <br>
-•	Assisted data collection, piloted studies, and participated in lab meetings <br>
+2014 to 16’ <br>	      
+	Undergraduate Research Assistant <br>
+        Cognitive Neuroscience of Memory Lab (PI: Heekyoung Park, Ph.D.) <br>
+	Department of Psychology, University of Texas at Arlington <br>
+		•	Assisted data collection, piloted studies, and participated in lab meetings <br>
 			
 Memberships <br>
 
