@@ -6,6 +6,7 @@ Chungnam, Republic of Korea <br>
 E-mail: Whani.kim405@gmail.com <br>
 
 ***
+
 #### Education <br>
 M.A. in Cognitive Psychology - *In progress* <br>
 Human Factors Psychology Lab <br>
@@ -15,7 +16,9 @@ Department of Psychology <br>
 B.S. in Psychology 2016 - *Cum Laude* <br>  		
 University of Texas at Arlington <br>	
 Department of Psychology <br>		
+
 ***
+
 #### Research Experiences <br>
 
 2016 		   <br>
@@ -31,7 +34,9 @@ Department of Psychology, University of Texas at Arlington <br>
 	Department of Psychology, University of Texas at Arlington <br>
 		•	Ran participants, piloted studies, and participated in lab meetings <br>
 		•	Gained experience in tDCS machine <br>
+		
 ***			
+
 #### Memberships <br>
 
 2015-Present	Member, Psi Chi <br>
