@@ -6,13 +6,14 @@ Chungnam, Republic of Korea <br>
 E-mail: Whani.kim405@gmail.com <br>
 
 Education <br>
-M.A. in Cognitive Psychology *In progress* <br>
-Department of Psychology <br>
+M.A. in Cognitive Psychology - *In progress* <br>
+Human Factors Psychology Lab <br>
 Seoul National University <br>
-
-B.S. in Psychology 2016 - Cum Laude <br>  		
 Department of Psychology <br>
-University of Texas at Arlington <br>		
+
+B.S. in Psychology 2016 - *Cum Laude* <br>  		
+University of Texas at Arlington <br>	
+Department of Psychology <br>		
 
 Research Experiences <br>
 
