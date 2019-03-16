@@ -6,8 +6,7 @@ Chungnam, Republic of Korea <br>
 E-mail: Whani.kim405@gmail.com <br>
 
 Education <br>
-B.S. 2016 - Cum Laude <br>        
-University of Texas at Arlington <br>			
+B.S. 2016 - Cum Laude <br>       University of Texas at Arlington <br>			
 Department of Psychology <br>
 							 
 Research Experiences <br>
