@@ -1,8 +1,36 @@
-## Welcome to GitHub Pages
+## Curriculum Vitae 
 
-You can use the [editor on GitHub](https://github.com/Domeis/Whani.Kim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Whani Kim <br> 
+44-9, Hasinso 1-gil Banpo-myeon, Gongju-si <br>
+Chungnam, Republic of Korea <br>
+E-mail: Whani.kim405@gmail.com <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Education <br>
+B.S. 2016 - Cum Laude <br>        
+University of Texas at Arlington <br>			
+Department of Psychology <br>
+							 
+Research Experiences <br>
+
+16’ 		      <br>
+Distinguished Scholars Program (Advisor: Shannon Layman, Ph.D.) <br>
+		          Department of Psychology, University of Texas at Arlington <br>
+•	Designed and conducted experiments for Honors Thesis Project, “Comfort in Music: Effect of Music on the Need for Cognitive Closure”  <br>
+•	Poster Presentation at ACES Symposium (Annual Celebration of Excellence by Students) at University of Texas at Arlington  <br>
+
+15’ to 16’	              Undergraduate Research Assistant
+                               Cognitive Neuroscience of Memory Lab (PI: Heekyoung Park, Ph.D.)
+		              Department of Psychology, University of Texas at Arlington
+•	Assisted data collection, piloted studies, and participated in lab meetings
+			
+Memberships
+
+2015-Present	Member, Psi Chi
+
+2015-2016	 	Member, UTA Psychology Society
+
+
+
 
 ### Markdown
 
