@@ -24,16 +24,16 @@ Department of Psychology <br>
 
 #### Research Experiences <br>
 
-<b> 2016 </b> 	<br>
-
+<b> 2016 </b> 	
+<br>
 Distinguished Scholars Program (Advisor: Shannon Layman, Ph.D.) <br>
 Department of Psychology, University of Texas at Arlington <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Designed and conducted experiment for Honors Thesis Project, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Comfort in Music: Effect of Music on the Need for Cognitive Closure” <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Poster Presentation at ACES Symposium (Annual Celebration of Excellence by Students) at <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Texas at Arlington  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Poster Presentation at ACES Symposium (Annual Celebration of Excellence by Students) at <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Texas at Arlington  <br>
 
-<b> 2014 to 16’ </b> <br>
-
+<b> 2014 to 16’ </b> 
+<br>
 Undergraduate Research Assistant <br>
 Cognitive Neuroscience of Memory Lab (PI: Heekyoung Park, Ph.D.) <br>
 Department of Psychology, University of Texas at Arlington <br>
@@ -44,5 +44,5 @@ Department of Psychology, University of Texas at Arlington <br>
 
 #### Memberships <br>
 
-2015-Present	Member, Psi Chi <br>
-2015-2016	Member, UTA Psychology Society <br>
+2015-Present:	Member, Psi Chi <br>
+2015-2016:	Member, UTA Psychology Society <br>
