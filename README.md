@@ -1,9 +1,13 @@
 ## About Me 
 
+<p align="center">
+	
 ### Whani Kim <br> 
 44-9, Hasinso 1-gil Banpo-myeon, Gongju-si <br>
 Chungnam, Republic of Korea <br>
 E-mail: Whani.kim405@gmail.com <br>
+
+</p> 
 
 ***
 
@@ -21,19 +25,21 @@ Department of Psychology <br>
 
 #### Research Experiences <br>
 
-2016 		   <br>
+<b> 2016 </b> 		   <br>
 
 Distinguished Scholars Program (Advisor: Shannon Layman, Ph.D.) <br>
 Department of Psychology, University of Texas at Arlington <br>
-		•	Designed and conducted experiments for Honors Thesis Project, <br> “Comfort in Music: Effect of Music on the Need for Cognitive Closure”  <br>
-		•	Poster Presentation at ACES Symposium (Annual Celebration of Excellence by Students) at University of Texas at Arlington  <br>
+> • Designed and conducted experiment for Honors Thesis Project, “Comfort in Music: Effect of Music on the Need for Cognitive Closure”
 
-2014 to 16’ <br>	      
+> • Poster Presentation at ACES Symposium (Annual Celebration of Excellence by Students) at University of Texas at Arlington 
+
+<b> 2014 to 16’ </b> <br>	      
 	Undergraduate Research Assistant <br>
         Cognitive Neuroscience of Memory Lab (PI: Heekyoung Park, Ph.D.) <br>
 	Department of Psychology, University of Texas at Arlington <br>
-		•	Ran participants, piloted studies, and participated in lab meetings <br>
-		•	Gained experience in tDCS machine <br>
+> • Ran participants, piloted studies, and participated in lab meetings 
+
+> • Experience in tDCS
 		
 ***			
 
