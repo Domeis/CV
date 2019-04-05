@@ -2,7 +2,7 @@
 
 <p align="center">
 	
-	![](https://www.facebook.com/photo.php?fbid=734535293265224&set=a.123870727665020&type=3&theater)
+	![](https://github.com/Domeis/Class-Material/blob/master/20190317_035018.jpg)
 	
 Seoul National University <br>
 16-M413, 1 Gwanak-ro, Gwanak-gu, Seoul, Korea 08826  <br>
