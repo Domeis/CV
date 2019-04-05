@@ -9,7 +9,7 @@
 
 <p align="center">
 	
-<h4> Address </h4>
+<h4> Contacts </h4>
 
 Seoul National University <br>
 16-M413, 1 Gwanak-ro, Gwanak-gu, Seoul, Korea 08826  <br>
