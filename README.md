@@ -2,7 +2,7 @@
 
 <p align="center">
 	
-![20190317_035018](https://user-images.githubusercontent.com/46833402/55654723-263fd180-582d-11e9-9492-77cfd475e9e6.jpg)
+![20190317_035018](https://user-images.githubusercontent.com/46833402/55654723-263fd180-582d-11e9-9492-77cfd475e9e6.jpg =250x250)
 
 
 </p> 
