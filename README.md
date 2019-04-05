@@ -1,8 +1,8 @@
 ## About Me 
 
 <p align="center">
-	
-![20190317_035018](https://user-images.githubusercontent.com/46833402/55654723-263fd180-582d-11e9-9492-77cfd475e9e6.jpg =250x250)
+
+<img src="https://user-images.githubusercontent.com/46833402/55654723-263fd180-582d-11e9-9492-77cfd475e9e6.jpg" width="250" height="250"> </img>
 
 
 </p> 
