@@ -2,8 +2,8 @@
 
 <p align="center">
 	
-44-9, Hasinso 1-gil Banpo-myeon, Gongju-si <br>
-Chungnam, Republic of Korea <br>
+Seoul National University <br>
+16-M413, 1 Gwanak-ro, Gwanak-gu, Seoul, Korea 08826  <br>
 E-mail: Whani.kim405@gmail.com <br>
 
 </p> 
