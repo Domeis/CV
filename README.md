@@ -46,7 +46,7 @@ Department of Psychology, University of Texas at Arlington <br>
 Undergraduate Research Assistant <br>
 Cognitive Neuroscience of Memory Lab (PI: Heekyoung Park, Ph.D.) <br>
 Department of Psychology, University of Texas at Arlington <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Ran participants, piloted studies, and participated in lab meetings <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Ran participants, piloted studies, assisted in data sorting and participated in lab meetings <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Experience in tDCS
 		
 ***			
