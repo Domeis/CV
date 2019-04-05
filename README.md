@@ -2,11 +2,13 @@
 
 <p align="center">
 	
-<img src="https://user-images.githubusercontent.com/46833402/55654723-263fd180-582d-11e9-9492-77cfd475e9e6.jpg" "width=60%"></img> <br>
+<img src="https://user-images.githubusercontent.com/46833402/55654723-263fd180-582d-11e9-9492-77cfd475e9e6.jpg" "width=60%"></img>
 
+</p> 
 
 	
-
+<p align="center">
+	
 Seoul National University <br>
 16-M413, 1 Gwanak-ro, Gwanak-gu, Seoul, Korea 08826  <br>
 E-mail: Whani.kim405@gmail.com <br>
