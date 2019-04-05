@@ -7,10 +7,10 @@
 
 </p> 
 
-	
 <p align="center">
 	
-#### Address <br>
+<h4> Address </h4>
+
 Seoul National University <br>
 16-M413, 1 Gwanak-ro, Gwanak-gu, Seoul, Korea 08826  <br>
 E-mail: Whani.kim405@gmail.com <br>
