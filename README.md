@@ -26,7 +26,7 @@ Department of Psychology <br>
 Seoul National University <br>
 
 
-B.S. in Psychology 2016 - *Cum Laude* <br>  	
+B.S. in Psychology - *Cum Laude* (2016)<br>  	
 Department of Psychology  <br>
 University of Texas at Arlington <br>	
 	
@@ -35,7 +35,7 @@ University of Texas at Arlington <br>
 
 #### Research Experiences <br>
 
-<b> 2016 </b> 	
+##### 2016  	
 <br>
 Distinguished Scholars Program (Advisor: Shannon Layman, Ph.D.) <br>
 Department of Psychology, University of Texas at Arlington <br>
@@ -43,10 +43,10 @@ Department of Psychology, University of Texas at Arlington <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Comfort in Music: Effect of Music on the Need for Cognitive Closure” <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Poster Presentation at ACES Symposium (Annual Celebration of Excellence by Students) at <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Texas at Arlington  <br>
 
-<b> 2014 to 16’ </b> 
+##### 2014 to 16’
 <br>
 Undergraduate Research Assistant <br>
-Cognitive Neuroscience of Memory Lab (PI: Heekyoung Park, Ph.D.) <br>
+*Cognitive Neuroscience of Memory Lab* (PI: Heekyoung Park, Ph.D.) <br>
 Department of Psychology, University of Texas at Arlington <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Ran participants, piloted studies, assisted in data sorting and participated in lab meetings <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Experience in tDCS
