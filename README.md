@@ -22,12 +22,14 @@ whani.kim405@gmail.com <br>
 #### Education <br>
 M.A. in Cognitive Psychology - *In progress* <br>
 Human Factors Psychology Lab <br>
-Seoul National University <br>
 Department of Psychology <br>
+Seoul National University <br>
 
-B.S. in Psychology 2016 - *Cum Laude* <br>  		
+
+B.S. in Psychology 2016 - *Cum Laude* <br>  	
+Department of Psychology  <br>
 University of Texas at Arlington <br>	
-Department of Psychology <br>		
+	
 
 ***
 
