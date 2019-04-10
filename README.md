@@ -36,7 +36,6 @@ University of Texas at Arlington <br>
 #### Research Experiences <br>
 
 ##### 2016  	
-<br>
 Distinguished Scholars Program (Advisor: Shannon Layman, Ph.D.) <br>
 Department of Psychology, University of Texas at Arlington <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Designed and conducted experiment for Honors Thesis Project, <br>
@@ -44,7 +43,6 @@ Department of Psychology, University of Texas at Arlington <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Poster Presentation at ACES Symposium (Annual Celebration of Excellence by Students) at <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Texas at Arlington  <br>
 
 ##### 2014 to 16’
-<br>
 Undergraduate Research Assistant <br>
 *Cognitive Neuroscience of Memory Lab* (PI: Heekyoung Park, Ph.D.) <br>
 Department of Psychology, University of Texas at Arlington <br>
