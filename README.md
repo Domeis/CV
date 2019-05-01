@@ -10,6 +10,7 @@
 <p align="center">
 	
 <h4> Contacts </h4>
+Whani Kim 
 
 Seoul National University <br>
 16-M413, 1 Gwanak-ro, Gwanak-gu, Seoul, Korea 08826  <br>
