@@ -37,7 +37,7 @@ University of Texas at Arlington <br>
 #### Research Experiences <br>
 ##### 2019
 Poster Presentation <br>
-Lee, J., Kim, W. & Hahn, S. (2019) The Effect of Computer Self-Efficacy on Reliance in Automated Car Task. *Annual Meeting of the Cognitive Science Society.*
+Lee, J., Kim, W. & Hahn, S. (2019). The Effect of Computer Self-Efficacy on Reliance in Automated Car Task. *Annual Meeting of the Cognitive Science Society.*
 
 ##### 2016  	
 Distinguished Scholars Program (Advisor: Shannon Layman, Ph.D.) <br>
