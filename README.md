@@ -44,10 +44,6 @@ Graduate Researcher, Development of Immersive Tourism Technology Utilizing 4D Te
 
 #### Research  <br>
 
-Graduate Researcher (19' to Present)
-*Human Factors Psychology Lab* (PI: Sowon Hahn, Ph.D.)
-Department of Psychology, Seoul National University
-
 ##### 2019
 Poster Presentation <br>
 Lee, J., Kim, W. & Hahn, S. (2019). The Effect of Computer Self-Efficacy on Reliance in Automated Car Task. *Annual Meeting of the Cognitive Science Society.*
