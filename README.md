@@ -34,9 +34,6 @@ University of Texas at Arlington <br>
 
 ***
 
-#### Experience <br>
-Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2019) <br> 
-
 #### Projects 
 Graduate Researcher, Analysis of the Effect of Newspaper Reading on Cognitive Processes of the Brain Using EEG. *Korean Newspaper Association*, 2019
 
@@ -64,6 +61,12 @@ Department of Psychology, University of Texas at Arlington <br>
 		
 ***			
 
+#### Experience <br>
+Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2019) <br> 
+Republic of Korea Army, ROK-US Combined Forces Command <br>
+Translator/Interpreter(Compulsory Military Service from 2016 ~ 2018)
+***
+Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2019) <br>
 #### Memberships <br>
 
 2015-Present:	Member, Psi Chi <br>
