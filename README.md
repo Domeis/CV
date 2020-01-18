@@ -53,7 +53,7 @@ Department of Psychology, University of Texas at Arlington <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Poster Presentation at ACES Symposium (Annual Celebration of Excellence by Students) at <br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Texas at Arlington  <br>
 
 ##### 2014 to 16’
-Undergraduate Research Assistant <br>
+* Undergraduate Research Assistant <br>
 *Cognitive Neuroscience of Memory Lab* (PI: Heekyoung Park, Ph.D.) <br>
 Department of Psychology, University of Texas at Arlington <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Ran participants, piloted studies, assisted in data sorting and participated in lab meetings <br> 
@@ -64,7 +64,7 @@ Department of Psychology, University of Texas at Arlington <br>
 #### Experience <br>
 * Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2019) <br> 
 * Republic of Korea Army, ROK-US Combined Forces Command <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Translator/Interpreter(Compulsory Military Service from 2016 ~ 2018)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Translator/Interpreter(Compulsory Military Service from 2016 ~ 2018) <br> 
 ***
 
 #### Memberships <br>
