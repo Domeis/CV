@@ -64,7 +64,8 @@ Department of Psychology, University of Texas at Arlington <br>
 #### Experience <br>
 * Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2019) <br> 
 * Republic of Korea Army, ROK-US Combined Forces Command <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Translator/Interpreter <span style="color:grey"> *(Compulsory Military Service from 2016 ~ 2018)* </span> <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Translator/Interpreter <span style="color:grey"> *(Compulsory Military Service from 2016 ~ 2018)* </span> <br> 
+
 ***
 
 #### Memberships <br>
