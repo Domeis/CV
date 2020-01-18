@@ -35,18 +35,18 @@ University of Texas at Arlington <br>
 ***
 
 #### Projects 
-Graduate Researcher, Analysis of the Effect of Newspaper Reading on Cognitive Processes of the Brain Using EEG. *Korean Newspaper Association*, 2019
+* Graduate Researcher, Analysis of the Effect of Newspaper Reading on Cognitive Processes of the Brain Using EEG. *Korean Newspaper Association*, 2019
 
-Graduate Researcher, Development of Immersive Tourism Technology Utilizing 4D Technology and Affective Modeling. *Korea Culture and Tourism Institute*, 2019 
+* Graduate Researcher, Development of Immersive Tourism Technology Utilizing 4D Technology and Affective Modeling. *Korea Culture and Tourism Institute*, 2019 
 
 #### Research  <br>
 
 ##### 2019
-Poster Presentation <br>
+* Poster Presentation <br>
 Lee, J., <b>Kim, W. </b> & Hahn, S. (2019). The Effect of Computer Self-Efficacy on Reliance in Automated Car Task. *Annual Meeting of the Cognitive Science Society.*
 
 ##### 2016  	
-Distinguished Scholars Program (Advisor: Shannon Layman, Ph.D.) <br>
+* Distinguished Scholars Program (Advisor: Shannon Layman, Ph.D.) <br>
 Department of Psychology, University of Texas at Arlington <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Designed and conducted experiment for Honors Thesis Project, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “Comfort in Music: Effect of Music on the Need for Cognitive Closure” <br>
@@ -62,11 +62,11 @@ Department of Psychology, University of Texas at Arlington <br>
 ***			
 
 #### Experience <br>
-Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2019) <br> 
-Republic of Korea Army, ROK-US Combined Forces Command <br>
-Translator/Interpreter(Compulsory Military Service from 2016 ~ 2018)
+* Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2019) <br> 
+* Republic of Korea Army, ROK-US Combined Forces Command <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Translator/Interpreter(Compulsory Military Service from 2016 ~ 2018)
 ***
-Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2019) <br>
+
 #### Memberships <br>
 
 2015-Present:	Member, Psi Chi <br>
