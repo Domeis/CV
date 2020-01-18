@@ -34,7 +34,20 @@ University of Texas at Arlington <br>
 
 ***
 
-#### Research Experiences <br>
+#### Experience <br>
+Teaching Assistant, Introduction to Psychology (Instructor: Sowon Hahn, Ph.D), SNU International Summer Program (2019) <br> 
+
+#### Projects 
+Graduate Researcher, Analysis of the Effect of Newspaper Reading on Cognitive Processes of the Brain Using EEG. *Korean Newspaper Association*, 2019
+
+Graduate Researcher, Development of Immersive Tourism Technology Utilizing 4D Technology and Affective Modeling. *Korea Culture and Tourism Institute*, 2019 
+
+#### Research  <br>
+
+Graduate Researcher (19' to Present)
+*Human Factors Psychology Lab* (PI: Sowon Hahn, Ph.D.)
+Department of Psychology, Seoul National University
+
 ##### 2019
 Poster Presentation <br>
 Lee, J., Kim, W. & Hahn, S. (2019). The Effect of Computer Self-Efficacy on Reliance in Automated Car Task. *Annual Meeting of the Cognitive Science Society.*
