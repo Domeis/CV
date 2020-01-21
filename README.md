@@ -40,6 +40,8 @@ University of Texas at Arlington <br>
 
 * Graduate Researcher, Development of Immersive Tourism Technology Utilizing 4D Technology and Affective Modeling. *Korea Culture and Tourism Institute*, 2019 
 
+***
+
 #### Research  <br>
 
 ##### 2019
