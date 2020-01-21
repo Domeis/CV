@@ -35,6 +35,7 @@ University of Texas at Arlington <br>
 ***
 
 #### Projects 
+* Graduate Researcher, Development of AI-based Service Platform for Psychological Self-Test and Management. *Korean Ministry of SMEs and Startups*, 2019~2020
 * Graduate Researcher, Analysis of the Effect of Newspaper Reading on Cognitive Processes of the Brain Using EEG. *Korean Newspaper Association*, 2019
 
 * Graduate Researcher, Development of Immersive Tourism Technology Utilizing 4D Technology and Affective Modeling. *Korea Culture and Tourism Institute*, 2019 
