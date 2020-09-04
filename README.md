@@ -47,7 +47,8 @@ University of Texas at Arlington <br>
 ##### 2019
 
 * Poster Presentation <br>
-Rhee, Y.W., <b>Kim, W. </b> & Hahn, S. (2019).  The Role of Trust in Interaction with AI Agents. * the 60th Annual Meeting of the Psychonomic Society.* Québec, Canada.
+
+Rhee, Y.W., <b>Kim, W. </b> & Hahn, S. (2019).  The Role of Trust in Interaction with AI Agents. *the 60th Annual Meeting of the Psychonomic Society.* Québec, Canada.
 
 Lee, J., <b>Kim, W. </b> & Hahn, S. (2019). The Effect of Computer Self-Efficacy on Reliance in Automated Car Task. *Annual Meeting of the Cognitive Science Society.*
 
