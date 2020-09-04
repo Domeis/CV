@@ -1,11 +1,5 @@
 ## About Me 
 
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/46833402/55656116-f266ab00-5830-11e9-9bd8-70b9aa33dd8a.jpg" width="300" height="450">
-
-
-</p> 
 
 <p align="center">
 	
