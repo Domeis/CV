@@ -77,7 +77,7 @@ Department of Psychology, University of Texas at Arlington <br>
 
 
 #### Grants
-* Principal Investigator, Fostering Future Fundamental Social Science Researchers Program, *College of Social Sciences, Seoul National University*, 2020
+* Principal Investigator, Role of Robot Body Language on the Perception of Physically Embodied Robots, *College of Social Sciences, Seoul National University*, 2020
 
 #### Memberships <br>
 
