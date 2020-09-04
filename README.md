@@ -3,7 +3,7 @@
 
 <p align="center">
 	
-<h4> Contacts </h4> <br> 
+<h4> Contacts </h4>
 Seoul National University <br>
 16-M413, 1 Gwanak-ro, Gwanak-gu, Seoul, Korea 08826  <br>
 whani.kim405@gmail.com <br>
