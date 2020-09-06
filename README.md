@@ -9,6 +9,7 @@ Seoul National University <br>
 whani.kim405@gmail.com <br>
 
 </p> 
+***
 
 #### Research Intrests <br>
 Human-Robot Interaction, UI/UX, Big Data, Human-Centered Designs 
