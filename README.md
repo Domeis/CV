@@ -14,6 +14,7 @@ whani.kim405@gmail.com <br>
 
 #### Research Intrests <br>
 Human-Robot Interaction, UI/UX, Big Data, Human-Centered Designs 
+
 ***
 
 #### Education <br>
